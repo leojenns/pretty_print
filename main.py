@@ -97,7 +97,7 @@ def pretty_print(filename):
         s = f'{product:12} cost {prijs.strip():5} euro'
         print(s)
 
-
+#we kunnen nu onze pretty_print functie vaker gebruiken voor verschillende bestanden die data bevatten in de style  product:prijs
 print('De data van de ah is: ')
 pretty_print('ah.txt')
 
