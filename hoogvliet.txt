@@ -1,0 +1,4 @@
+sperziebonen:1.22
+pizza:22.33
+kroketten:7.99
+fanta:4.55

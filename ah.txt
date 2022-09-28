@@ -1,0 +1,4 @@
+appelsap:11.50
+perensap:1.60
+cola:2.50
+bier:1.00

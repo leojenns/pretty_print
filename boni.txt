@@ -1,0 +1,5 @@
+koekjes:1.40
+brood:0.89
+patat:6.40
+vodka:21.99
+vis:3.44
